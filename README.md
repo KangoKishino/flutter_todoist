@@ -1,4 +1,4 @@
-# todo_app_yamatatsu
+# flutter_todoist
 
 State management is `Provider + ChangeNotifier` .
 You can choose branch `textField` and `textFormField`. 
